@@ -1,4 +1,4 @@
-## Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR prediction, CVR prediction), Post Ranking, Transfer and Reinforcement Learning.
+## Awesome papers in Deep Learning, Generative AI, LLM.
 
 ## 0_Deep_Learning
 * [2015 (Google) (JMLR) [BatchNorm] Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/guyulongcs/Awesome-papers-in-DeepLearning-GenerativeAI/blob/master/0_Deep_Learning/2015%20%28Google%29%20%28JMLR%29%20%5BBatchNorm%5D%20Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf) <br />
