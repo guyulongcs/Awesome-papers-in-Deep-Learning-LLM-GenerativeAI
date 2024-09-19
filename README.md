@@ -5,6 +5,8 @@
 
 ## 1_LLM
 * [2018 (OpenAI) (Arxiv) [GPT] Improving Language Understanding by Generative Pre-Training](https://github.com/guyulongcs/Awesome-papers-in-DeepLearning-GenerativeAI/blob/master/1_LLM/2018%20%28OpenAI%29%20%28Arxiv%29%20%5BGPT%5D%20Improving%20Language%20Understanding%20by%20Generative%20Pre-Training.pdf) <br />
+* [2020 (Arxiv) Scaling Laws for Neural Language Models](https://github.com/guyulongcs/Awesome-papers-in-DeepLearning-GenerativeAI/blob/master/1_LLM/2020%20%28Arxiv%29%20Scaling%20Laws%20for%20Neural%20Language%20Models.pdf) <br />
+* [2022 (Google) (TMLR) [Emergent] Emergent Abilities of Large Language Models](https://github.com/guyulongcs/Awesome-papers-in-DeepLearning-GenerativeAI/blob/master/1_LLM/2022%20%28Google%29%20%28TMLR%29%20%5BEmergent%5D%20Emergent%20Abilities%20of%20Large%20Language%20Models.pdf) <br />
 
 ## 2_CV
 * [2020 (UCB) (NIPS) [Diffusion] Denoising Diffusion Probabilistic Models](https://github.com/guyulongcs/Awesome-papers-in-DeepLearning-GenerativeAI/blob/master/2_CV/2020%20%28UCB%29%20%28NIPS%29%20%5BDiffusion%5D%20Denoising%20Diffusion%20Probabilistic%20Models.pdf) <br />
